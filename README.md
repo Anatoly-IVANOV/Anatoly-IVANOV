@@ -1,28 +1,16 @@
-Hi, I’m @Anatoly-IVANOV, a French / Russian film director, DP, steadicam op, still photographer, art director, web / graphic designer, co-producer and… wait, what does all that have to do with programming and GitHub?! 🤣
+Hi, I’m Anatoly, a French-Russian creative professional with a diverse background in film direction, photography, art direction, and design. I’m also an avid programmer! My journey with computers began in 1989, programming in Pascal in Soviet-era Moscow.
 
-I’ve lived with computers and have been programming “stuff” since 1989 (in Pascal 🤦🏻‍♂️ in then-Soviet Moscow). I’ve been working with JavaScript🧡, PHP💛, Perl, Bash, AppleScript, XML, JSON, SQL, HTML, SVG and CSS💚… and bits of C and C++.
+My expertise spans several languages and technologies, including JavaScript🧡, PHP💛, Perl, Bash, AppleScript, XML, JSON, SQL, HTML, SVG, and CSS💚, with some knowledge in C and C++. For me, programming is another creative tool, akin to a camera.
 
-To me, programming is a tool, just like a camera. So I’ve written a ton of code, but mostly for:
+Most of my coding endeavors focus on:
 
-- proprietary web sites’ — back and front end
-- solutions to image and video related problems we encounter in the cinema and photography world
+- full-stack web development for proprietary sites since 1999
+- crafting solutions for sound and video challenges in the film industry since 2011
 
-Hence, not very open-sourceable or universally applicable (UTF8 IPTC recodes? AfterEffects ECMAscripts? PCM audio meta-data storage for year-long feature film shoots?)
+While my work often isn’t suited for open-source, I contribute some of my bits and pieces in areas that enhance user and dev experience, as well as through bug reports and feature suggestions to other projects.
 
-So, here, on GitHub, I contribute as best as I can mostly with bug reports and feature suggestions.
+My programming philosophy prioritizes practical solutions to business needs. I have a business degree and almost 30 years of practice as a co-founder. I advocate for Continuous Delivery, precise commits, strong typing, rigorous testing, and clear code documentation.
 
-I’m particularly interested in any tech that helps us automate tasks, improve user experience (code-driven UX design)… so we can focus on the few advantages we still have over machines: the creative stuff. 🙂
+Active behind the camera since 1997, I’m based in Paris, Lausanne and LA, working globally. I’m trilingual English, French, and Russian.
 
-My programming tastes and approaches?
-
-- users’ solutions first, dogma second — procedural, functional or object-oriented
-- Continuous Delivery, smallish commits, tiny branches
-- strong typing, ideally (I dislike the loose typing of JavaScript and PHP…)
-- paranoid testing
-- commenting and naming vars for forgetful humans, including myself a month from now
-
-Behind the camera since 1997. Based in Paris FR and Geneva CH (remote pre- and post production, design). Working around the globe (on-site shoots / production / manufacturing).
-
-Trilingual English / French / Russian.
-
-More information and contact e-mail on my website: https://anatolyivanov.com
+For more details, visit my website: [anatolyivanov.com](https://anatolyivanov.com).
