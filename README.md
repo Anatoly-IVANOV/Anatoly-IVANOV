@@ -9,7 +9,7 @@ Most of my coding endeavors focus on:
 
 While my work often isn’t suited for open-source, I contribute some of my bits and pieces in areas that enhance user and dev experience, as well as through bug reports and feature suggestions to other projects.
 
-My programming philosophy prioritizes practical solutions to business needs. I have a business degree and almost 30 years of practice as a co-founder. I advocate for Continuous Delivery, precise commits, strong typing, rigorous testing, and clear documentation (I’m trilingual in English, French, and Russian).
+My programming philosophy prioritizes practical solutions to business needs. I have a business degree and almost 30 years of practice as a co-founder & chief engineer / CTO (multiple companies, some still alive, like Ektaron & Idelekka). Working solo or managing 150+ teams, I advocate for Continuous Delivery, precise commits, strong typing, rigorous testing, and clear documentation (I’m trilingual in English, French, and Russian).
 
 Working globally — behind the camera or the monitor — since 1997, I’m typing away film and computer scripts from my bases in Paris, Lausanne and LA.
 
