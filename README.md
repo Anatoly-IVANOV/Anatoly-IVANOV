@@ -1,6 +1,6 @@
-Hi, I’m Anatoly, a French-Russian creative professional from Geneva with a diverse background in film direction, photography, art direction, and design. I’m also an avid programmer! My journey with computers began in 1989, learning Pascal in Soviet-era Moscow.
+EN/FR-CH/RU creative pro coding tools for my film direction, photography, art direction and design endeavors — a computer journey started in 1989 with Pascal in Soviet-era Moscow.
 
-My expertise spans several languages and technologies, including JavaScript💚, PHP💛, Rust🧡, Python, Perl, Bash, Go, AppleScript, XML, JSON, SQL, HTML, SVG, and CSS💚, with some knowledge in C and C++. For me, runtimes, APIs and programming are creative tools, akin to storytelling and cameras.
+Known as Anatoly or Толя, but still IVANOV, people and organizations ask for my unconventional intermix of languages and technologies. A fresh eye despite decades of perfectionism on a deadline — JavaScript💚, PHP💛, Rust🧡, Python, Perl, Bash, Go, AppleScript, XML, JSON, SQL, HTML, SVG, CSS💚, with some knowledge in C and C++… For me, runtimes, APIs and programming are creative tools, akin to storytelling and cameras. Vanilla or LLM-a, curiosity pushes me out of bounds to solve concrete quirks and impossibilities.
 
 Most of my coding endeavors focus on:
 
