@@ -11,6 +11,6 @@ While my work often isn’t suited for open-source, I contribute some of my bits
 
 My programming philosophy prioritizes practical solutions to business needs. I have a business degree and almost 30 years of practice as a co-founder & chief engineer / CTO (multiple companies, some still alive, like [ektaron](https://ektaron.com) & [idelekka](https://idelekka.com)). Working solo or managing 150+ teams, I advocate for Continuous Delivery, precise commits, strong typing, rigorous testing, and clear documentation (I’m trilingual in English, French, and Russian).
 
-Working globally — behind the camera or the monitor — since 1997, I’m typing away film and computer scripts from my bases in Paris, Lausanne and LA. Geneva-born, I lived through USSR, Berlin reunification, several putsches, SF dot come craziness, Free Software (as in Richard “Freedom” Stallman) early days, probability tensors and IP tensions…
+Working globally — behind the camera or the monitor — since 1997, I’m typing away film and computer scripts from my bases in Paris, Lausanne and LA. Geneva-born, I lived through the USSR’ last decade, Berlin reunification, several putsches, a couple of wars, SF dot com bubbles, Richard “Freedom” Stallman OSS early days, probability tensors and IP tensions…
 
 For more details, visit my website: [anatolyivanov.com](https://anatolyivanov.com), specifically the [ultra-technical CV](https://anatolyivanov.com/cv/) 🤖.
